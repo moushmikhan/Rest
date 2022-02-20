@@ -10,7 +10,7 @@ All these tests are included together in /resources/testng.xml config file Pleas
 
 Steps to Run the project
 
-- Clone the repository https://github.com/moushmikhan/RestAssuredBDDTest.git
+- Clone the repository https://github.com/moushmikhan/RestAssuredAPITest
 
 - Add RestAssuredAPI as a Maven project
 
